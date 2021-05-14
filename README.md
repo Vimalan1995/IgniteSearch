@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Ignite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Game Search engine to find the latest games.
+Project was made from DevEd React Course.
 
 ## Available Scripts
 
